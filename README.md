@@ -1,7 +1,7 @@
 
   # Waste Management Robot System
 
-  This is a code bundle for Waste Management Robot System. The original project is available at https://www.figma.com/design/ctWs3S5hxhKWsTHx1uY5mW/Waste-Management-Robot-System.
+  This is a code bundle for Waste Management Robot System. The original project is available at https://user-hub-95147936.figma.site
 
   ## Running the code
 
